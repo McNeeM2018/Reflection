@@ -1,21 +1,24 @@
-#Reflection 5
-## 2/23/2018
-This week we learned about git hub and how it connects to Ubuntu. We learned how to add things to GitHub from ubuntu. We learned the different commands to use GitHub from ubuntu. I also learned how to create and edit files and folders in putty.
+## 2/9/2018
+This week we learned about encryption and multiple ways to do it. Encryption is a way of coding and decoding a message. To correctly receive the message you must have $
 
 
+# Reflection 2
+## 2/9/2018
+This week I learned about different algorithms that use different methods to solve a problem all with varying results. I also learned about https and HTTP and the diff$
 
-#Reflection 3
-## 2/9/1018
+# Reflection 1
+## 1/19/2018
+This week I have learned many things such as Binary and Big O. Binary is a computer language consisting of ones and zeros. It is used in almost all parts of the comput$
+
+# Reflection 3
+## 2/9/2018
 This week we learned about encryption and multiple ways to do it. Encryption is a way of coding and decoding a message. To correctly receive the message you must have the key. To make encryption stronger or more challenging to decode you can encrypt it multiple times by switching letters around or substituting letters for symbols or numbers. A specific type of cipher that we learned about is the Caesar shift cipher in which letters shift either to the right or left. This cipher can be done multiple times to make it harder to crack.
 
 
 # Reflection 2
-## 2/2/1018
+## 2/9/2018
 This week I learned about different algorithms that use different methods to solve a problem all with varying results. I also learned about https and HTTP and the difference between them one is a secure network, and the other is unsecured. I found out that information is sent in packets and is recorded to assess how well the information went through. Finally, I learned that websites could be pinged and tracked to find out how long it takes for information to be sent.
 
-
-# Reflection 1 
-## 1/29/2018
+# Reflection 1
+## 1/19/2018
 This week I have learned many things such as Binary and Big O. Binary is a computer language consisting of ones and zeros. It is used in almost all parts of the computer and can be translated into numbers through a system. Binary is the language a computer reads and uses to perform actions.
-
-
