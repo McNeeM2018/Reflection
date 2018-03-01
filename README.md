@@ -1,10 +1,14 @@
-#Reflection 5
+# Reflection 6
+## 3/1/2018
+This week I learned about XML. XMl or Extensible Markup Language is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. I also learned how to properly use putty and put my reflections in to Github. It uses a series of commands to save it in putty and trasnferr it into Github.
+
+# Reflection 5
 ## 2/23/2018
 This week we learned about git hub and how it connects to Ubuntu. We learned how to add things to GitHub from ubuntu. We learned the different commands to use GitHub from ubuntu. I also learned how to create and edit files and folders in putty.
 
 
 
-#Reflection 3
+# Reflection 3
 ## 2/9/1018
 This week we learned about encryption and multiple ways to do it. Encryption is a way of coding and decoding a message. To correctly receive the message you must have the key. To make encryption stronger or more challenging to decode you can encrypt it multiple times by switching letters around or substituting letters for symbols or numbers. A specific type of cipher that we learned about is the Caesar shift cipher in which letters shift either to the right or left. This cipher can be done multiple times to make it harder to crack.
 
