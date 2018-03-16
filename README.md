@@ -1,3 +1,7 @@
+# Reflection 8
+## 3/16/2018
+This week I learned how to better code in HTML. I learned how to add in pictures and lines of space. I worked on my pet project extensively and added text in. I also added more ideas to my google friday project.
+
 # Reflection 7
 ## 3/9/2018
 This week I learned more about XML, and how to effectively use it. I learned how to code and write in XML. I also worked on my XML project extensively. Finally I added more informaation to my trello boarc in preperation for my Google Friday project.  
