@@ -1,3 +1,7 @@
+# Reflection 9
+## 4/13/2018
+This week I worked on my pizza project and learned to code in python in a single day. I worked heavily on my google friday project and made alot of progress. 
+
 # Reflection 8
 ## 3/16/2018
 This week I learned how to better code in HTML. I learned how to add in pictures and lines of space. I worked on my pet project extensively and added text in. I also added more ideas to my google friday project.
