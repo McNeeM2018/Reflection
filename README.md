@@ -1,3 +1,7 @@
+# Reflection 10
+## 4/20/2018
+This week I finished making my Pizza project. It utilized making a website, using html, and making a stylesheet. I am also rethinking my google friday project. 
+
 # Reflection 9
 ## 4/13/2018
 This week I worked on my pizza project and learned to code in python in a single day. I worked heavily on my google friday project and made alot of progress. 
