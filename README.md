@@ -1,3 +1,7 @@
+# Reflection 11
+## 4/26/2018
+This week I learned how to use bootstrap. I used it to add in images and make a website look better. It utilized Css and html. I have now finally figured out my google friday project and am going to complete it.
+
 # Reflection 10
 ## 4/20/2018
 This week I finished making my Pizza project. It utilized making a website, using html, and making a stylesheet. I am also rethinking my google friday project. 
