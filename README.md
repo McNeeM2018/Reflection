@@ -1,3 +1,7 @@
+# Reflection 12
+## 5/1/2018
+Today I worked on my profile project. I specifically made all of the seperate websites for the different tabs. I also started to plan out my google friday project. I now know what I am going to do and I will accomplish it.
+
 # Reflection 11
 ## 4/26/2018
 This week I learned how to use bootstrap. I used it to add in images and make a website look better. It utilized Css and html. I have now finally figured out my google friday project and am going to complete it.
