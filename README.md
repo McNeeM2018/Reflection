@@ -1,3 +1,15 @@
+# Reflection 15
+## 5/4/2018
+Stuck on profile project.
+
+# Reflection 14
+## 5/3/2018
+Did more work on my profile project.
+
+# Reflection 13
+## 5/2/2018
+I worked on my profile project and researched my google friday project.
+
 # Reflection 12
 ## 5/1/2018
 Today I worked on my profile project. I specifically made all of the seperate websites for the different tabs. I also started to plan out my google friday project. I now know what I am going to do and I will accomplish it.
