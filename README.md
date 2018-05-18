@@ -1,3 +1,7 @@
+Reflkection 17
+## 5/18/2018
+This week I grinded out my profile project and fished my madlib. I finished adding all the text to my website and turned it in. I also made a working madlib that has prompts and a story.
+
 Reflection 16
 ## 5/11/2018
 This week I did alot of work. I made many breakthroughs in my profile project. I learned how to connect all of my topics to my website. I am currently working on changing all of the text and picture in my website to what I want. I am about halfway finished with my project. This week we also learned how to use javascript. I learned how to make prompts and pop up messages. We are currently working on making a working madlib. 
